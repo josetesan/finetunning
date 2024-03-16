@@ -1,0 +1,11 @@
+datasets
+transformers
+bitsandbytes
+sentencepiece
+accelerate
+loralib
+peft
+pillow
+torch
+torchvision
+hf_transfer
